@@ -1036,6 +1036,9 @@ a {
     -ms-transform: translate(-50%, -50%) scale(0.7);
     transform: translate(-50%, -50%) scale(0.7);
     position: absolute; }
+  .margintop-100 {
+    margin-top: 100px;
+  }
 
 .item-entry .product-item {
   margin-bottom: 30px; }
@@ -1069,7 +1072,7 @@ a {
   .featured-hero-product h1, .featured-hero-product h4 {
     color: #000; }
   .featured-hero-product h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     letter-spacing: 1rem; }
     @media (max-width: 991.98px) {
       .featured-hero-product h1 {
@@ -1077,7 +1080,7 @@ a {
   .featured-hero-product h4 {
     font-size: 1rem; }
   .featured-hero-product .price {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #000; }
     @media (max-width: 991.98px) {
       .featured-hero-product .price {
