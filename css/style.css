@@ -1073,7 +1073,7 @@ a {
     color: #000; }
   .featured-hero-product h1 {
     font-size: 3rem;
-    letter-spacing: 0.5rem; }
+    letter-spacing: 0.4rem; }
     @media (max-width: 991.98px) {
       .featured-hero-product h1 {
         font-size: 2rem; } }
